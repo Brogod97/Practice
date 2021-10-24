@@ -1,2 +1,2 @@
 # Practice
-HTML, CSS, JavaScript practice
+HTML, CSS, JavaScript 연습
